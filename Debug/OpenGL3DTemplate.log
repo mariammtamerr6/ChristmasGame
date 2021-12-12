@@ -1,0 +1,4 @@
+﻿  OpenGL3DTemplate.cpp
+D:\Uni\7th Semester\Computer Graphics\Labs\Labs 6&5 3D\OpenGL3DTemplate_24784\OpenGL3DTemplate\OpenGL3DTemplate.cpp(967,2): warning C4551: function call missing argument list
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> D:\Uni\7th Semester\Computer Graphics\Labs\Labs 6&5 3D\OpenGL3DTemplate_24784\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
